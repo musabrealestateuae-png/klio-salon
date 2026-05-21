@@ -11,7 +11,8 @@
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
-    "tinacms": "^2.2.3"
+    "tinacms": "^2.2.3",
+    "@tinacms/cli": "^1.5.47"
   },
   "devDependencies": {
     "@types/node": "^20",
